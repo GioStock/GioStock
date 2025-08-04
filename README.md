@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @GioStock
-- 👀 I’m interested in Apple World
-- 🌱 I’m currently learning Java
-- My Hard Skills : HTML | CSS | BOOTSTRAP | JS | JAVA | MYSQL | SPRINGBOOT | HIBERNATE | SWING | SPRING |
-- 📫 How to reach me: carotenuto.giovanni1996@gmail.com
+# 👋 Ciao, sono Giovanni Carotenuto!
 
-<!---
-GioStock/GioStock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Junior Fullstack Developer** con passione per il web design e l'apprendimento continuo.
+
+## 🚀 Cosa so fare
+- 👨‍💻 **Linguaggi**: Java, JavaScript, HTML, CSS
+- 🛠️ **Framework & Tool**: Spring Boot, Bootstrap, React, Node.js, MySQL, Git & GitHub
+- 🎨 **UI/UX & Design**: TailwindCSS, Figma, Elementor
+- 🔧 **Altri strumenti**: Vite, Prisma, Docker (in fase di studio)
+
+## 🛠️ Progetti su cui sto lavorando
+- 🌐 Portfolio professionali su richiesta (Fiverr)
+- 📺 Blog fullstack per recensioni di serie TV
+- 🚗 Web app vetrina per concessionari (stile Tesla)
+- 👁️‍🗨️ Sito personale per professionisti di vari settori
+
+## 📬 Contatti
+- 🌍 [Info](https://linktr.ee/giodesignstudio8)
+- 📧 Carotenuto.Giovanni1996@gmail.com
+- 🧠 Sempre pronto a imparare cose nuove! 💡
+
+---
+
+> _"Il codice è come una poesia: ogni riga deve avere un significato."_  
+> — Me, dopo aver passato 4 ore a cercare un bug 😅
