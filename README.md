@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Giovanni Carotenuto!
+# 👋 Ciao, sono Giovanni!
 
 🎯 **Junior Fullstack Developer** con passione per il web design e l'apprendimento continuo.
 
